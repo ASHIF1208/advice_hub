@@ -1,0 +1,25 @@
+.header {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+
+.stud-details {
+  display: flex;
+  justify-content: center;
+}
+
+.stud-details table {
+  border: 1px solid skyblue;
+  border-collapse: collapse;
+  width: 300px;
+  margin: 10px 20px;
+}
+
+.stud-details td,
+.stud-details th {
+  border: 1px solid orangered;
+  padding: 5px 10px;
+  text-align: left;
+  width: 150px;
+}
